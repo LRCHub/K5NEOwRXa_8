@@ -1,0 +1,280 @@
+{
+  "version": 1,
+  "base_track": "Give Me a Kiss",
+  "base_artist": "Crash Adams",
+  "createdAt": "2026-02-19T05:41:24.884967Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Give Me a Kiss",
+      "artist": "Lolo Zouaï",
+      "has_synced": true,
+      "path": "select/01_Give_Me_a_Kiss_Lolo_Zouaï.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Give Me a Kiss",
+      "artist": "Crash Adams",
+      "has_synced": true,
+      "path": "select/02_Give_Me_a_Kiss_Crash_Adams.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Give Me A Kiss",
+      "artist": "Van Morrison",
+      "has_synced": false,
+      "path": "select/03_Give_Me_A_Kiss_Van_Morrison.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Give Me a Kiss",
+      "artist": "Crash Adams",
+      "has_synced": true,
+      "path": "select/04_Give_Me_a_Kiss_Crash_Adams.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Give Me a Kiss",
+      "artist": "Crash Adams",
+      "has_synced": true,
+      "path": "select/05_Give_Me_a_Kiss_Crash_Adams.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Give Me a Kiss",
+      "artist": "Crash Adams",
+      "has_synced": true,
+      "path": "select/06_Give_Me_a_Kiss_Crash_Adams.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Give Me a Kiss",
+      "artist": "Video • Crash Adams",
+      "has_synced": true,
+      "path": "select/07_Give_Me_a_Kiss_Video_•_Crash_Adams.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Give Me a Kiss",
+      "artist": "Crash Adams",
+      "has_synced": true,
+      "path": "select/08_Give_Me_a_Kiss_Crash_Adams.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Give Me a Kiss",
+      "artist": "Crash Adams",
+      "has_synced": true,
+      "path": "select/09_Give_Me_a_Kiss_Crash_Adams.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Crash Adams - Give Me A Kiss (Lyrics)",
+      "artist": "BagOnly",
+      "has_synced": true,
+      "path": "select/10_Crash_Adams_-_Give_Me_A_Kiss_(Lyrics)_BagOnly.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Give Me a Kiss",
+      "artist": "Crash Adams",
+      "has_synced": true,
+      "path": "select/11_Give_Me_a_Kiss_Crash_Adams.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Give Me a Kiss",
+      "artist": "Wan Fang",
+      "has_synced": true,
+      "path": "select/12_Give_Me_a_Kiss_Wan_Fang.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Give Me A Kiss!",
+      "artist": "Sonya",
+      "has_synced": true,
+      "path": "select/13_Give_Me_A_Kiss!_Sonya.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Give Me A Kiss",
+      "artist": "Jasmine Chen",
+      "has_synced": false,
+      "path": "select/14_Give_Me_A_Kiss_Jasmine_Chen.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "You Would Give Me Kiss If I Were On Soccer Team",
+      "artist": "Group X - Arabian Rap Sensations",
+      "has_synced": false,
+      "path": "select/15_You_Would_Give_Me_Kiss_If_I_Were_On_Soccer_Team_Group_X_-_Arabian_Rap_Sensations.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "You Would Give Me Kiss If I Were on Soccer Team",
+      "artist": "Gröûp X",
+      "has_synced": false,
+      "path": "select/16_You_Would_Give_Me_Kiss_If_I_Were_on_Soccer_Team_Gröûp_X.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Give Me A Reason",
+      "artist": "Hikaru Utada",
+      "has_synced": true,
+      "path": "select/17_Give_Me_A_Reason_Hikaru_Utada.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Give Me A Reason",
+      "artist": "宇多田ヒカル",
+      "has_synced": true,
+      "path": "select/18_Give_Me_A_Reason_宇多田ヒカル.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Give Me a Sign",
+      "artist": "Jean-Michel Jarre",
+      "has_synced": false,
+      "path": "select/19_Give_Me_a_Sign_Jean-Michel_Jarre.txt"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "Give Me a Chance",
+      "artist": "The Jon Spencer Blues Explosion",
+      "has_synced": false,
+      "path": "select/20_Give_Me_a_Chance_The_Jon_Spencer_Blues_Explosion.txt"
+    },
+    {
+      "id": "lrclib_21",
+      "source": "lrclib",
+      "title": "Give Me A Sign",
+      "artist": "עפרה חזה",
+      "has_synced": false,
+      "path": "select/21_Give_Me_A_Sign_עפרה_חזה.txt"
+    },
+    {
+      "id": "lrclib_22",
+      "source": "lrclib",
+      "title": "Give Me a Sign (radio edit)",
+      "artist": "עפרה חזה",
+      "has_synced": false,
+      "path": "select/22_Give_Me_a_Sign_(radio_edit)_עפרה_חזה.txt"
+    },
+    {
+      "id": "lrclib_23",
+      "source": "lrclib",
+      "title": "Give Me A Sign (Radio Edit)",
+      "artist": "Ofra Haza",
+      "has_synced": false,
+      "path": "select/23_Give_Me_A_Sign_(Radio_Edit)_Ofra_Haza.txt"
+    },
+    {
+      "id": "lrclib_24",
+      "source": "lrclib",
+      "title": "Give Me a Sign (Walkerloop-clubmix)",
+      "artist": "עפרה חזה",
+      "has_synced": false,
+      "path": "select/24_Give_Me_a_Sign_(Walkerloop-clubmix)_עפרה_חזה.txt"
+    },
+    {
+      "id": "lrclib_25",
+      "source": "lrclib",
+      "title": "Give Me a Sign",
+      "artist": "Ofra Haza",
+      "has_synced": true,
+      "path": "select/25_Give_Me_a_Sign_Ofra_Haza.lrc"
+    },
+    {
+      "id": "lrclib_26",
+      "source": "lrclib",
+      "title": "Give Me a Break",
+      "artist": "The Ritchie Family",
+      "has_synced": false,
+      "path": "select/26_Give_Me_a_Break_The_Ritchie_Family.txt"
+    },
+    {
+      "id": "lrclib_27",
+      "source": "lrclib",
+      "title": "Give Me a Sign",
+      "artist": "The Vaccines",
+      "has_synced": true,
+      "path": "select/27_Give_Me_a_Sign_The_Vaccines.lrc"
+    },
+    {
+      "id": "lrclib_28",
+      "source": "lrclib",
+      "title": "Give Me A Minute",
+      "artist": "Lizzy McAlpine",
+      "has_synced": false,
+      "path": "select/28_Give_Me_A_Minute_Lizzy_McAlpine.txt"
+    },
+    {
+      "id": "lrclib_29",
+      "source": "lrclib",
+      "title": "Give Me a Reason",
+      "artist": "The Corrs",
+      "has_synced": true,
+      "path": "select/29_Give_Me_a_Reason_The_Corrs.lrc"
+    },
+    {
+      "id": "lrclib_30",
+      "source": "lrclib",
+      "title": "Give Me A Sign",
+      "artist": "TNT",
+      "has_synced": false,
+      "path": "select/30_Give_Me_A_Sign_TNT.txt"
+    },
+    {
+      "id": "lrclib_31",
+      "source": "lrclib",
+      "title": "Give Me a Reason",
+      "artist": "Dokken",
+      "has_synced": true,
+      "path": "select/31_Give_Me_a_Reason_Dokken.lrc"
+    },
+    {
+      "id": "lrclib_32",
+      "source": "lrclib",
+      "title": "Give Me a Signal",
+      "artist": "The Prodigy feat. Barns Courtney",
+      "has_synced": true,
+      "path": "select/32_Give_Me_a_Signal_The_Prodigy_feat._Barns_Courtney.lrc"
+    },
+    {
+      "id": "lrclib_33",
+      "source": "lrclib",
+      "title": "Give Me a Signal (feat. Barns Courtney)",
+      "artist": "The Prodigy",
+      "has_synced": true,
+      "path": "select/33_Give_Me_a_Signal_(feat._Barns_Courtney)_The_Prodigy.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Give Me a Kiss",
+      "artist": "Crash Adams",
+      "has_synced": false,
+      "path": "select/pl_01_Give_Me_a_Kiss_Crash_Adams.txt"
+    }
+  ]
+}
