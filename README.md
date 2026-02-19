@@ -1,0 +1,54 @@
+# Crash Adams – Give Me a Kiss
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:00.73] Sometimes I wish that I could just quit
+[00:06.98] But then the other times
+[00:09.55] There's nobody better than this
+[00:13.24] Even though you never listen
+[00:16.10] And you're always right
+[00:20.59] And I guess I would've never fit your type
+[00:41.59] 
+[00:26.82] Except for that first night
+[00:29.38] We're two kids under that moonlight
+[00:32.76] We ate McDonald's at midnight
+[00:36.02] Became the best of friends
+[00:40.31] I remember our first time in Barcelona
+[00:44.82] That morning I was so hungover
+[00:48.39] I never thought that all roads led to this
+[00:53.97] So give me a kiss
+[01:02.47] 
+[00:55.45] Sometimes you say that I'm just too much
+[01:01.44] But then the other times
+[01:03.61] Feels like I give you the world and I won't give up
+[01:08.05] Oh, I never listen
+[01:10.50] And I take too long (and I take too long, and take too)
+[01:15.58] And I guess I would've never fit your song
+[01:36.58] 
+[01:21.66] Except for that first night
+[01:23.88] We're two kids under that moonlight
+[01:27.24] We ate McDonald's at midnight
+[01:30.58] Became the best of friends
+[01:35.02] I remember our first time in Barcelona
+[01:39.15] That morning I was so hungover
+[01:42.76] I never thought that all roads led to this
+[01:48.61] So give me a kiss (give me a)
+[02:03.11] 
+[01:51.85] Give me a kiss
+[01:55.45] Give me a kiss (give me a)
+[01:58.73] Give me a kiss
+[02:05.73] 
+[02:02.28] Except for that first night
+[02:04.84] We're two kids under that moonlight
+[02:08.29] We ate McDonald's at midnight
+[02:11.42] Became the best of friends
+[02:15.84] I remember our first time in Barcelona
+[02:20.08] That morning I was so hungover
+[02:23.55] I never thought that all roads led to this
+[02:29.13] So give me a kiss (give me a)
+[02:43.63] 
+[02:32.53] Give me a kiss
+[02:36.58] Give me a kiss (give me a)
+[02:39.65] Give me a kiss
+```
